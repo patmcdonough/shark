@@ -1,0 +1,2 @@
+#/bin/sh
+SCALA_HOME=/usr/local/Cellar/scala/2.10.3/idea/ bin/shark
